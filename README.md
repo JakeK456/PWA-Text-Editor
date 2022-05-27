@@ -30,5 +30,5 @@ Could be used as a text editor that will save contents through page reload, inst
 
 ## Credits
 
-This Repo: https://github.com/JakeK456/PWA-Text-Editor
+This Repo: https://github.com/JakeK456/PWA-Text-Editor  
 My GitHub: https://github.com/JakeK456
