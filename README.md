@@ -4,7 +4,7 @@
 
 A progressive web application text editor. Text entered into the editor will be saved in the client side IndexDB and persist through loading the page, installation, or running the app offline.
 
-Visit the webpage at:
+Visit the webpage at: https://serene-everglades-45974.herokuapp.com/
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ Visit the webpage at:
 Clone the Repository.  
 Run "npm i".  
 Build client and start server. Run "npm run start".  
-Open browser to local host port 3000
+Open browser to local host port 3000.
 
 ## Usage
 
