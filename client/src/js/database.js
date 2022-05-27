@@ -52,11 +52,9 @@ export const getDb = async () => {
   // Get confirmation of the request.
   const result = await request;
 
-  if (result === undefined) {
-    return undefined;
+  if (result) {
+    return result.content;
   }
-
-  return result.content;
 };
 
 initdb();
